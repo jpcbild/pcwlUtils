@@ -23,9 +23,11 @@ public  class MqBaseParamEntity {
  	public String getExchange_name() {
  		return exchange_name;
  	}
+
  	public void setExchange_name(String exchange_name) {
  		this.exchange_name = exchange_name;
  	}
+
  	public String getRoutingKey() {
  		return routingKey;
  	}
