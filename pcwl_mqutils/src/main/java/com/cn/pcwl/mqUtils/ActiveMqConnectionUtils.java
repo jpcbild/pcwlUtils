@@ -10,6 +10,7 @@ public class ActiveMqConnectionUtils {
 	        // 2.创建连接
 	        Connection connection = factory.createConnection();
 		return connection;
-		
+		//3
+
 	}
 }
